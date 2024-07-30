@@ -1,0 +1,22 @@
+{
+  "name": "ts-challenges",
+  "version": "1.0.0",
+  "description": "TypeScript challenges.",
+  "author": "Bertrand Caron <bertrand.fx.caron@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint:fix": "prettier --write ."
+  },
+  "devDependencies": {
+    "@tsd/typescript": "^5.5.4",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "jest-runner-tsd": "^6.0.0",
+    "jest-tsd": "^0.2.2",
+    "ts-jest": "^29.2.3",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}
