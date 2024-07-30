@@ -5,7 +5,8 @@
   "author": "Bertrand Caron <bertrand.fx.caron@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint:fix": "prettier --write ."
+    "lint:fix": "prettier --write .",
+    "test": "yarn jest"
   },
   "devDependencies": {
     "@tsd/typescript": "^5.5.4",
