@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "lint:fix": "prettier --write .",
-    "test": "yarn jest"
+    "test": "yarn jest",
+    "lint:check": "prettier --list-different ."
   },
   "devDependencies": {
     "@tsd/typescript": "^5.5.4",
