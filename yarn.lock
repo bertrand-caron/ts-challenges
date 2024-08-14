@@ -1891,6 +1891,11 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
+prettier-plugin-sort-json@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-sort-json/-/prettier-plugin-sort-json-4.0.0.tgz#b72a44b57183dd7f8cef5c07a0614f21d29a0e4a"
+  integrity sha512-zV5g+bWFD2zAqyQ8gCkwUTC49o9FxslaUdirwivt5GZHcf57hCocavykuyYqbExoEsuBOg8IU36OY7zmVEMOWA==
+
 prettier@^3.3.3:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.3.3.tgz#30c54fe0be0d8d12e6ae61dbb10109ea00d53105"
